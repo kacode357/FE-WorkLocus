@@ -24,14 +24,14 @@ const baloo2 = Baloo_2({
 });
 
 export const metadata: Metadata = {
-  title: "Măm Map",
-  description: "Ứng dụng tìm kiếm đồ ăn thông minh",
+  title: "WorkLocus",
+  description: "Ứng dụng quản lý công việc và thời gian làm việc hiệu quả",
   icons: {
     icon: [
-      { url: "/images/logo-mm-final-2.png", type: "image/png" },
-      { url: "/images/logo-mm-final-2.png", rel: "shortcut icon", type: "image/png" },
+      { url: "/images/logo2.png", type: "image/png" },
+      { url: "/images/logo2.png", rel: "shortcut icon", type: "image/png" },
     ],
-    apple: "/images/logo-mm-final-2.png",
+    apple: "/images/logo2.png",
   },
 };
 
